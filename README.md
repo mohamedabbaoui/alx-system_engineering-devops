@@ -1,1 +1,1 @@
-this repo contains various scripts of shell navigation commands
+shell permissions scripts 
